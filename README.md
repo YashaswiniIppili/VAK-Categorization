@@ -13,8 +13,8 @@ The model then classifies what kind of learning best suits the user and the corr
 4. Take the quiz.
 5. When clicked on SUBMIT, asks you to download a CSV file, approve.
 6. Run your ML model (notebook file) and the corresponding output is printed.
-7. To access the Aural site manually : localhost:3000/audio
-   To access the Visual site manually : localhost:3000/visual
+7. To access the Aural site manually : localhost:3000/audio  </br>
+   To access the Visual site manually : localhost:3000/visual  </br>
    To access the Kinesthetic site manually : localhost:3000/kinesthetic
    
 ## Improvements : 
